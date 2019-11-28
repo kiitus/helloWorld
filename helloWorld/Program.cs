@@ -12,6 +12,8 @@ namespace helloWorld
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Terve maailma");
+
+            Console.WriteLine("Termos Pohjanmaa");
         }
     }
 }
